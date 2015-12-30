@@ -1,0 +1,1 @@
+This is the default output directory for the scan results.

@@ -1,0 +1,9 @@
+Release 0.1 2015/12
+###################
+- initial release
+
+###################
+TODO for further releases
+- filter output based on AP status (better bash commands or pre command to detect nics)
+- input via CLI
+- parallel processing of ssh job
